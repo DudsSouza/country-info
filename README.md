@@ -41,7 +41,7 @@ This project is a simple backend application to provide information about countr
 
 ```bash
 git clone https://github.com/DudsSouza/country-info.git
-cd country-info-app
+cd country-info
 ```
 
 2. Install dependencies:
