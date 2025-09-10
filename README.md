@@ -77,7 +77,6 @@ DB_FILENAME=./calendar.sqlite
 | Command         | Description                   |
 | --------------- | ----------------------------- |
 | `npm run dev`   | Run development server        |
-| `npm run build` | Compile TypeScript (optional) |
 | `npm start`     | Start server in production    |
 
 ---
